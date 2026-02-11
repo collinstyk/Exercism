@@ -1,7 +1,7 @@
 class RemoteControlCar
 {
     int distance = 0;
-    int batteryPercent = 100;
+    int battery = 100;
     public static RemoteControlCar Buy()
     {
         return new RemoteControlCar();
@@ -14,15 +14,15 @@ class RemoteControlCar
 
     public string BatteryDisplay()
     {
-        string display = batteryPercent > 0 ? $"Battery at {batteryPercent}%" : "Battery empty";
-        return display;
+
+        return battery > 0 ? $"Battery at {battery}%" : "Battery empty";
     }
 
     public void Drive()
     {
-        if (batteryPercent <= 0) return;
+        if (battery <= 0) return;
         distance += 20;
-        batteryPercent -= 1;
+        battery -= 1;
 
     }
 }
