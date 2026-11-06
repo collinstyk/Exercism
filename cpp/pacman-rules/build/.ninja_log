@@ -1,0 +1,6 @@
+# ninja log v7
+29	4456	8156767267169414	CMakeFiles/pacman-rules.dir/pacman_rules_test.cpp.obj	f11d9627a0d809c7
+38	30450	8156767267259181	CMakeFiles/pacman-rules.dir/test/tests-main.cpp.obj	17dd701a6c52643b
+30454	31623	8156767571408738	pacman-rules.exe	3b1de197a8951db
+31624	31715	8156767583114379	CMakeFiles/test_pacman-rules	e96c35031b3fb85f
+31624	31715	8156767583114379	C:/Users/CHIDOZIE/Exercism/cpp/pacman-rules/build/CMakeFiles/test_pacman-rules	e96c35031b3fb85f
