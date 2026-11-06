@@ -1,0 +1,9 @@
+# ninja log v7
+54	778	8156367142924741	CMakeFiles/hello-world.dir/hello_world.cpp.obj	c65d732e8d24f3e5
+42	1805	8156367142807158	CMakeFiles/hello-world.dir/hello_world_test.cpp.obj	ac81176c510c8216
+63	29649	8156367143017679	CMakeFiles/hello-world.dir/test/tests-main.cpp.obj	f21eb0dbc2e56ecd
+29654	31057	8156367438928685	hello-world.exe	adb2f0a281bfd028
+31057	31150	8156367452963126	CMakeFiles/test_hello-world	3950f3ccad4f53da
+31057	31150	8156367452963126	C:/Users/CHIDOZIE/Exercism/cpp/hello-world/build/CMakeFiles/test_hello-world	3950f3ccad4f53da
+57	128	8156368706289279	CMakeFiles/test_hello-world	3950f3ccad4f53da
+57	128	8156368706289279	C:/Users/CHIDOZIE/Exercism/cpp/hello-world/build/CMakeFiles/test_hello-world	3950f3ccad4f53da
