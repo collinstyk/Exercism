@@ -1,0 +1,6 @@
+# ninja log v7
+43	1869	8156389616556024	CMakeFiles/lasagna.dir/lasagna_test.cpp.obj	58b2698ce499b67a
+56	24914	8156389616685661	CMakeFiles/lasagna.dir/test/tests-main.cpp.obj	2f22d5ed6042178e
+24918	26039	8156389865306665	lasagna.exe	994c55aa0ff4d195
+26039	26134	8156389876520839	CMakeFiles/test_lasagna	1177371b3b79c461
+26039	26134	8156389876520839	C:/Users/CHIDOZIE/Exercism/cpp/lasagna/build/CMakeFiles/test_lasagna	1177371b3b79c461
