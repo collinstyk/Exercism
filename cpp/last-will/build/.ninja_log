@@ -1,0 +1,6 @@
+# ninja log v7
+25	2857	8156664215649686	CMakeFiles/last-will.dir/last_will_test.cpp.obj	82a4e7bed0a2b301
+33	22305	8156664215725110	CMakeFiles/last-will.dir/test/tests-main.cpp.obj	204dd22ee66a67ee
+22360	23414	8156664438999279	last-will.exe	64151fdefd0937aa
+23415	23496	8156664449541658	CMakeFiles/test_last-will	5c4a73ef85ebe332
+23415	23496	8156664449541658	C:/Users/CHIDOZIE/Exercism/cpp/last-will/build/CMakeFiles/test_last-will	5c4a73ef85ebe332
